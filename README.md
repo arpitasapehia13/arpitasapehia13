@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arpitasapehia13
+- 👋 Hi, I’m Arpita Sapehia.
 - 👀 I’m an aspiring engineer.
 - 💞️ I’m looking to collaborate with you and want to create amzing projects.
 
