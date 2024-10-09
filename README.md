@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arpita Sapehia</h1>
 <h3 align="center">Aspiring Software Developer</h3>
-<div style="text-align: center;">
-   <div>
-   <img align="right" alt="Description of GIF" style="max-width: 100%; height: auto; border-radius: 15px;" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
 
-   </div>
+   <img align="right" alt="Description of GIF" style="width: 340px; height: 290px; border-radius: 25px;" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
+
+
 
 
 
@@ -28,8 +27,7 @@
 - 💬 Ask me about the MERN stack.
 - 📫 How to reach me: arpitasapehia@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I once created a program to analyze my productivity,<br>
-              &nbsp;&nbsp;&nbsp;&nbsp;  but it just told me to stop procrastinating!
+- ⚡ Fun fact: I once created a program to analyze my productivity,but it just told me to stop procrastinating!
   
 
 
