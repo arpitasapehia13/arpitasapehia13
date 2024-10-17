@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arpita Sapehia</h1>
+<h1 align="center">Hi👋, I'm Arpita Sapehia</h1>
 <h3 align="center">Aspiring Software Developer</h3>
 
    <img align="right" alt="Description of GIF" style="width: 340px; height: 280px; border-radius: 25px;" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
